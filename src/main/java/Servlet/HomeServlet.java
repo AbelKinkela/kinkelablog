@@ -17,6 +17,7 @@ import java.util.ArrayList;
 
 public class HomeServlet extends HttpServlet{
     ArrayList<Article> articles =new ArrayList<>();
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 

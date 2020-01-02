@@ -7,38 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22b82717-53c1-459c-a66f-6d8f600a1cc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/KinkelaBlog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_30_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/WEB-INF/classes/Model/Connect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/WEB-INF/classes/Servlet/BlogServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/WEB-INF/classes/Servlet/HomeServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/WEB-INF/classes/View/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/WEB-INF/classes/View/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Servlet/BlogServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Servlet/HomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/View/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/KinkelaBlog_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/KinkelaBlog_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KinkelaBlog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KinkelaBlog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/KinkelaBlog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KinkelaBlog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Servlet/BlogServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Servlet/BlogServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Servlet/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Servlet/HomeServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,8 +220,23 @@
       <workItem from="1577993423835" duration="757000" />
       <workItem from="1577994201274" duration="3951000" />
       <workItem from="1577998159075" duration="135000" />
-      <workItem from="1577998297278" duration="2034000" />
+      <workItem from="1577998297278" duration="2906000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit 2. Front-end almost dynamic.">
+      <created>1578000371484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578000371484</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit 2.1. Front-end almost dynamic.">
+      <created>1578000480300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578000480300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +244,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit 2. Front-end almost dynamic." />
+    <MESSAGE value="Commit 2.1. Front-end almost dynamic." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 2.1. Front-end almost dynamic." />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="24" width="800" height="672" key="#Project_Structure" timestamp="1577991149278">
@@ -269,10 +261,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="491" y="50" width="519" height="621" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577992809206" />
-    <state x="263" y="0" width="830" height="723" key="CommitChangelistDialog2" timestamp="1578000370712">
+    <state x="263" y="0" width="830" height="723" key="CommitChangelistDialog2" timestamp="1578000480163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="0" width="830" height="723" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578000370712" />
+    <state x="263" y="0" width="830" height="723" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578000480163" />
     <state width="906" height="2" key="GridCell.Tab.0.bottom" timestamp="1578000099464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -329,6 +321,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" width="1024" height="725" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577991627361" />
+    <state x="278" y="99" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1578000510429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="99" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578000510429" />
     <state x="266" y="21" width="824" height="679" key="com.intellij.database.dbimport.ImportDialog" timestamp="1577997954970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
