@@ -2,12 +2,12 @@
   <artifact type="exploded-war" name="KinkelaBlog:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/KinkelaBlog_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="KinkelaBlog/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="KinkelaBlog" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="KinkelaBlog/web/Web" />
     </root>
   </artifact>
 </component>

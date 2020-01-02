@@ -9,5 +9,8 @@
         <module name="KinkelaBlog" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="KinkelaBlog" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
